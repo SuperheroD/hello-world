@@ -1,4 +1,4 @@
 # hello-world
 first repository
 Aur bhailog kaise 
-apun facebook se pehle github par aa gaya 
+ab python sikhna hai yaar hamesha jab bhi koi cheez sikhta hu use beech m chod deta hu sala ise nahi chodna ab
